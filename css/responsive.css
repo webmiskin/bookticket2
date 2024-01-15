@@ -1,0 +1,604 @@
+
+
+
+
+
+
+
+@media screen and (min-width: 1200px) {
+
+
+.header .menu-design ul li {
+   margin-left: 30px;
+}
+
+.header .menu-design ul li a {
+    font-size: 18px;
+
+}
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+
+
+.menu-design ul li {
+   margin-left: 25px;
+}
+
+.menu-design ul li a {
+   
+ font-size: 15px;
+}
+
+
+.menu-design ul li .join-btn {
+    padding: 10px 25px;
+    
+}
+
+
+.benefit-author-area {
+   padding-top: 100px;
+}
+
+
+.intro-ctn .get-started  {
+   margin-bottom: 50px;
+  
+}
+
+
+.intro-ctn h2 {
+    font-size: 50px;
+}
+
+
+.block-item h3 {
+   font-size: 15px;
+  
+}
+
+.block-item p {
+ font-size: 11px;
+ 
+}
+
+
+
+/* desktop page2 */
+
+.header .menu-design ul li {
+   margin-left: 20px;
+}
+
+.header .menu-design ul li a {
+    font-size: 13px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+
+.benefit-author-ctn h4 {
+    padding-top: 100px;
+    
+}
+
+.benefit-author-ctn p {
+   margin-bottom: 20px;   
+}
+
+.footer-area {
+  clip-path: polygon(0 0, 100% 20%, 100% 100%, 0% 100%);
+ 
+}
+
+
+.net-p {
+    margin-bottom: 20px;
+    
+}
+
+
+.ft-item-icons .connect {
+   margin-bottom: 30px;
+
+}
+
+.copy-right {
+    margin-top: 20px;
+ 
+}
+
+.block-chain-area .block-item {
+   width: 300px;
+   margin: auto;
+   margin-bottom: 20px;
+  
+   
+}
+
+.benefit-author-area {
+  padding-top: 130px;
+  
+}
+
+
+.benefit-author-area .group-block {
+    min-height: 400px;
+   
+}
+
+.benefit-author-ctn h4 {
+    font-size: 26px;
+    
+     
+}
+
+.benefit-author-area .block-item h3 {
+    font-size: 32px;
+}
+
+
+.benefit-author-area .block-item p {
+    font-size: 20px;
+}
+
+ .ticket-title2 .ticket-item {
+    margin-bottom: 30px;
+  }
+
+
+.hr {
+    margin-top: 0;
+  }
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (min-width: 576px) and (max-width: 767px) {	
+
+
+.benefit-author-ctn h4 {
+    padding-top: 100px;
+    
+}
+
+.benefit-author-ctn p {
+   margin-bottom: 20px;   
+}
+
+.footer-area {
+  clip-path: polygon(0 0, 100% 20%, 100% 100%, 0% 100%);
+ 
+}
+
+
+.net-p {
+    margin-bottom: 20px;
+    
+}
+
+
+.ft-item-icons .connect {
+   margin-bottom: 30px;
+
+}
+
+.copy-right {
+    margin-top: 20px;
+ 
+}
+
+.block-chain-area .block-item {
+   width: 300px;
+   margin: auto;
+   margin-bottom: 20px;
+  
+   
+}
+
+.benefit-author-area {
+  padding-top: 130px;
+  
+}
+
+
+.benefit-author-area .group-block {
+    min-height: 400px;
+}
+
+.benefit-author-ctn h4 {
+    font-size: 26px;
+    
+     
+}
+
+.benefit-author-area .block-item h3 {
+    font-size: 30px;
+}
+
+
+.benefit-author-area .block-item p {
+    font-size: 20px;
+}
+
+.benefit-author-area {
+ 
+  background-image: linear-gradient(to bottom right,#FFDDE2 70%,#FFDDE2 30%);
+  clip-path: polygon(0 0, 100% 7%, 100% 100%, 0% 100%);
+}
+
+
+.block-title h2 {
+    font-size: 28px;
+}
+
+.block-item p {
+    font-size: 17px;
+}
+
+.block-item h3 {
+    font-size: 16px;
+}
+
+   .ticket-title2 .ticket-item {
+    margin-bottom: 30px;
+  }
+
+  
+  .hr {
+    margin-top: 0;
+  }
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 576px) {
+
+
+ .header-area {
+  background-image: linear-gradient(to bottom right,#FFDDE2 70%,#FFDDE2 30%);
+  clip-path: polygon(0 0, 102% 0, 107% 86%, 0% 99%);   
+
+}
+
+
+.benefit-author-area {
+ 
+  background-image: linear-gradient(to bottom right,#FFDDE2 70%,#FFDDE2 30%);
+  clip-path: polygon(0 0, 100% 7%, 100% 100%, 0% 100%);
+}
+
+
+.benefit-author-ctn h4 {
+    padding-top: 100px;
+    
+}
+
+.benefit-author-ctn p {
+   margin-bottom: 20px;   
+}
+
+.netplus-ctn .get-stated {
+    margin-bottom: 20px;
+}
+
+
+.get-title h3 {
+    font-size: 44px;
+}
+
+
+.get-title p {
+    font-size:20px;
+}
+
+
+.footer-area {
+  clip-path: polygon(0 0, 100% 20%, 100% 100%, 0% 100%);
+ 
+}
+
+.net-p {
+    margin-bottom: 20px;
+    
+}
+
+
+.ft-item-icons .connect {
+   margin-bottom: 30px;
+
+}
+
+.copy-right {
+    margin-top: 20px;
+ 
+}
+
+
+.block-chain-area .block-item {
+   width: 300px;
+   margin: auto;
+   margin-bottom: 20px;
+   
+}
+
+
+.benefit-author-area {
+      padding-top: 150px;
+
+}
+
+.benefit-author-area .group-block {
+    min-height: 400px;
+}
+
+.benefit-author-ctn h4 {
+    font-size: 32px;
+     
+}
+
+.benefit-author-area .block-item h3 {
+    font-size: 30px;
+}
+
+
+.benefit-author-area .block-item p {
+    font-size: 18px;
+}
+
+.benefit-author-area {
+  margin-bottom: 30px;
+}
+
+
+.get-item {
+    margin-bottom: 0;
+
+}
+
+
+.navbar-design .logo2 {
+    font-size: 20px;
+}
+
+
+.navbar-design .logo2 img {
+    width: 100px;
+}
+
+
+.intro-ctn h2 {
+    font-size: 40px;
+}
+
+
+.intro-ctn .get-started {
+    margin-bottom: 30px;
+}
+
+.about-area .about-item {
+    flex-direction: column;
+}
+
+
+
+.timeline-title h2 {
+    font-size: 33px;
+
+}
+
+
+.timeline-title p {
+    font-size: 20px;
+}
+
+.organaizer-title h2 {
+    font-size: 32px;
+}
+
+.organaizer-area {
+    margin-top: 30px;
+}
+
+
+.ticket-area2 {
+    padding-top: 55px;
+    
+
+}
+
+
+.ticket-title2 .ticket-item {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+
+}
+
+
+.hr {
+
+  margin-top: 0px;
+
+}
+
+
+/* timeline area */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* timeline area */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
